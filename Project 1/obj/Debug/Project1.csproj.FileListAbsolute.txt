@@ -1,0 +1,72 @@
+C:\Users\LHUser\Documents\Visual Studio 2013\Projects\FrmMain\FrmMain\bin\Debug\FrmMain.exe.config
+C:\Users\LHUser\Documents\Visual Studio 2013\Projects\FrmMain\Project 1\bin\Debug\FrmMain.exe.config
+C:\Users\Admin\Pictures\c-Project1-Tr-ng-Duy-T-o-frm-Main-v-Login\Project 1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Admin\Pictures\c-Project1-Tr-ng-Duy-T-o-frm-Main-v-Login\Project 1\obj\Debug\FrmMain.FrmLogin.resources
+C:\Users\Admin\Pictures\c-Project1-Tr-ng-Duy-T-o-frm-Main-v-Login\Project 1\obj\Debug\FrmMain.FrmMain.resources
+C:\Users\Admin\Pictures\c-Project1-Tr-ng-Duy-T-o-frm-Main-v-Login\Project 1\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Users\Admin\Pictures\c-Project1-Tr-ng-Duy-T-o-frm-Main-v-Login\Project 1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Admin\Pictures\c-Project1-Tr-ng-Duy-T-o-frm-Main-v-Login\Project 1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.AssemblyReference.cache
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.FrmLogin.resources
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.FrmMain.resources
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Main.resources
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.Properties.Resources.resources
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.GenerateResource.cache
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.QuanLiNguoiDung_Modified.resources
+E:\Bài làm\C#\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.QuanLyNguoiDung_Modified.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\FrmMain.FrmLogin.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\FrmMain.FrmMain.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\FrmMain.Frm_DoiMatKhau.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Main.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Modified.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\admin\Documents\c-Project1\c-Project1-Long-Ph-T-o-frm-i-m-t-kh-u\Project 1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\bin\Debug\FrmMain.exe.config
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\bin\Debug\FrmMain.exe
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\bin\Debug\FrmMain.pdb
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.FrmLogin.resources
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.FrmMain.resources
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.Frm_DoiMatKhau.resources
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Main.resources
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Modified.resources
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.Properties.Resources.resources
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.GenerateResource.cache
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.exe
+D:\c-Project1-Ho-ng-Anh-T-o-Frm-Qu-n-l-ng-i-d-ng-Main\Project 1\obj\Debug\FrmMain.pdb
+C:\Users\admin\Documents\C-Free\Project 1\bin\Debug\FrmMain.exe.config
+C:\Users\admin\Documents\C-Free\Project 1\bin\Debug\FrmMain.exe
+C:\Users\admin\Documents\C-Free\Project 1\bin\Debug\FrmMain.pdb
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.FrmLogin.resources
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.FrmMain.resources
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.Frm_DoiMatKhau.resources
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Main.resources
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Modified.resources
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.exe
+C:\Users\admin\Documents\C-Free\Project 1\obj\Debug\FrmMain.pdb
+D:\Project 1\bin\Debug\FrmMain.exe.config
+D:\Project 1\bin\Debug\FrmMain.exe
+D:\Project 1\bin\Debug\FrmMain.pdb
+D:\Project 1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\Project 1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+D:\Project 1\obj\Debug\FrmMain.FrmLogin.resources
+D:\Project 1\obj\Debug\FrmMain.FrmMain.resources
+D:\Project 1\obj\Debug\FrmMain.Frm_DoiMatKhau.resources
+D:\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Main.resources
+D:\Project 1\obj\Debug\FrmMain.Frm_QuanLyNguoiDung_Modified.resources
+D:\Project 1\obj\Debug\FrmMain.Properties.Resources.resources
+D:\Project 1\obj\Debug\Project1.csproj.GenerateResource.cache
+D:\Project 1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Project 1\obj\Debug\FrmMain.exe
+D:\Project 1\obj\Debug\FrmMain.pdb
