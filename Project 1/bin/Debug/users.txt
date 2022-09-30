@@ -1,0 +1,6 @@
+1,user01,123456,Nguyen Hoang Hiep True
+2,user02,123456,Nguyen Long Phu,false
+3,user03,123456,Nguyen Hoang Anh,false
+4,user04,123456,Mai Truong Duy,True
+1,user01,123456,Ho Manh Dong, True
+
