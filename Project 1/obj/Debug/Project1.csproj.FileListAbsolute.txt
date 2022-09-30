@@ -1,0 +1,2 @@
+C:\Users\LHUser\Documents\Visual Studio 2013\Projects\FrmMain\FrmMain\bin\Debug\FrmMain.exe.config
+C:\Users\LHUser\Documents\Visual Studio 2013\Projects\FrmMain\Project 1\bin\Debug\FrmMain.exe.config
