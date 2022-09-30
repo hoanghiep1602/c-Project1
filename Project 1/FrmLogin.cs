@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FrmMain.BussinessLayer;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,7 @@ namespace FrmMain
 {
     public partial class FrmLogin : Form
     {
+        BLLUser bd;
         public FrmLogin()
         {
             InitializeComponent();
@@ -58,7 +60,7 @@ namespace FrmMain
         }
         private bool CheckLogin(string taiKhoan, string matKhau)
         {
-            return bd.CheckLogin(taiKhoan, matKhau);
+            return bd.Kiemtradangnhap(taiKhoan, matKhau);
         }
         bool CloseForm = false;
 

@@ -9,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
 
 namespace FrmMain
 {
@@ -19,33 +18,36 @@ namespace FrmMain
         {
             InitializeComponent();
         }
-
         BLLUser bd;
-        private void button1_Click(object sender, EventArgs e)
+
+        private void HienThiDanhSachUsers()
         {
-            Frm_QuanLyNguoiDung_Modified frm_QuanLyNguoiDung_Modified = new Frm_QuanLyNguoiDung_Modified();
-            frm_QuanLyNguoiDung_Modified.isAdd = true;
-            frm_QuanLyNguoiDung_Modified.ShowDialog();
-            HienThiDanhSachUsers();
+            ClsMain.users = bd.GetUsers();
+
+            var bindingList = new BindingList<User>(ClsMain.users);
+            var source = new BindingSource(bindingList, null);
+
+            dgvUsers.DataSource = source;
         }
 
-        private void Frm_QuanLyNguoiDung_Main_Load(object sender, EventArgs e)
+        User user = null;
+
+        private void dgvUsers_Click(object sender, EventArgs e)
         {
-            bd = new BLLUser(ClsMain.pathUser);
-            HienThiDanhSachUsers();
+
         }
 
-        private void dgvUsers_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void dgvUsers_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
         {
-            if (dgvUsers_CellContentClick.Rows.Count > 0)
+            if (dgvUsers.Rows.Count > 0)
             {
                 user = new User()
                 {
-                    ID = Convert.ToInt32(dgvUsers_CellContentClick.CurrentRow.Cells["colID"].Value.ToString()),
-                    HoVaTen = dgvUsers_CellContentClick.CurrentRow.Cells["colHoVaTen"].Value.ToString(),
-                    TaiKhoan = dgvUsers_CellContentClick.CurrentRow.Cells["colTaiKhoan"].Value.ToString(),
-                    MatKhau = dgvUsers_CellContentClick.CurrentRow.Cells["colMatKhau"].Value.ToString(),
-                    NhoMatKhau = Convert.ToBoolean(dgvUsers_CellContentClick.CurrentRow.Cells["colNhoMatKhau"].Value.ToString())
+                    ID = Convert.ToInt32(dgvUsers.CurrentRow.Cells["colID"].Value.ToString()),
+                    HoVaTen = dgvUsers.CurrentRow.Cells["colHoVaTen"].Value.ToString(),
+                    TaiKhoan = dgvUsers.CurrentRow.Cells["colTaiKhoan"].Value.ToString(),
+                    MatKhau = dgvUsers.CurrentRow.Cells["colMatKhau"].Value.ToString(),
+                    NhoMatKhau = Convert.ToBoolean(dgvUsers.CurrentRow.Cells["colNhoMatKhau"].Value.ToString())
 
                 };
             }
@@ -56,19 +58,15 @@ namespace FrmMain
 
         }
 
-        private void HienThiDanhSachUsers()
+        private void btnThem_Click_1(object sender, EventArgs e)
         {
-            ClsMain.users = bd.GetUsers();
-
-            var bindingList = new BindingList<User>(ClsMain.users);
-            var source = new BindingSource(bindingList, null);
-
-            dgvUsers_CellContentClick.DataSource = source;
+            Frm_QuanLyNguoiDung_Modified frm_QuanLyNguoiDung_Modified = new Frm_QuanLyNguoiDung_Modified();
+            frm_QuanLyNguoiDung_Modified.isAdd = true;
+            frm_QuanLyNguoiDung_Modified.ShowDialog();
+            HienThiDanhSachUsers();
         }
 
-        User user = null;
-
-        private void btnSua_Click(object sender, EventArgs e)
+        private void btnSua_Click_1(object sender, EventArgs e)
         {
             if (user != null)
             {
@@ -82,7 +80,7 @@ namespace FrmMain
             }
         }
 
-        private void btnXoa_Click(object sender, EventArgs e)
+        private void btnXoa_Click_1(object sender, EventArgs e)
         {
             if (user != null)
             {
@@ -99,10 +97,10 @@ namespace FrmMain
                         HienThiDanhSachUsers();
                         user = null;
                         break;
-                        ClsMain.CapNhatData(ClsMain.pathUser, ClsMain.users);
+                        ClsMain.UpdateData(ClsMain.pathUser, ClsMain.users);
                     }
                 }
-                if (bd.CapNhatDuLieu(ClsMain.users))
+                if (bd.UpdateData(ClsMain.users))
                 {
                     MessageBox.Show("Cap nhat thanh cong", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
@@ -117,13 +115,19 @@ namespace FrmMain
             }
         }
 
-        private void btnThoat_Click(object sender, EventArgs e)
+        private void btnThoat_Click_1(object sender, EventArgs e)
         {
             this.Close();
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
+            HienThiDanhSachUsers();
+        }
+
+        private void Frm_QuanLyNguoiDung_Main_Load(object sender, EventArgs e)
+        {
+            bd = new BLLUser(ClsMain.pathUser);
             HienThiDanhSachUsers();
         }
     }

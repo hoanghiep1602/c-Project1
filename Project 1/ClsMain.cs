@@ -1,8 +1,11 @@
-﻿using System;
+﻿using FrmMain.BussinessLayer;
+using FrmMain.DataLayer;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace FrmMain
 {
@@ -17,7 +20,7 @@ namespace FrmMain
             BLLUser bd = new BLLUser(path);
             if(bd.UpdateData(ClsMain.users))
             {
-                MessageBox.show("Cập nhật thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Cập nhật thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {

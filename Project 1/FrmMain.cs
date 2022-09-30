@@ -48,14 +48,14 @@ namespace FrmMain
 
         private void mnuQuanLyNguoiDung_Click(object sender, EventArgs e)
         {
-            FrmQuanLyNguoiDung_Main frmQuanLyNguoiDung_Main = new FrmQuanLyNguoiDung_Main();
-            frmQuanLyNguoiDung_Main.showDialog();
+            Frm_QuanLyNguoiDung_Main frmQuanLyNguoiDung_Main = new Frm_QuanLyNguoiDung_Main();
+            frmQuanLyNguoiDung_Main.ShowDialog();
         }
 
         private void mnuDoiMatKhau_Click(object sender, EventArgs e)
         {
             Frm_DoiMatKhau frm_DoiMatKhau = new Frm_DoiMatKhau();
-            frm_DoiMatKhau.showDialog();
+            frm_DoiMatKhau.ShowDialog();
         }
     
     }
